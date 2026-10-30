@@ -1,0 +1,44 @@
+# ==============================================================================
+# Environment & Virtual Environments
+# ==============================================================================
+.venv/
+venv/
+ENV/
+env/
+
+# ==============================================================================
+# Python Bytecode & Cache Artifacts
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ==============================================================================
+# Database Locks & Temporary Files
+# ==============================================================================
+*.duckdb.wal
+*.duckdb.tmp
+
+# ==============================================================================
+# Large External Government Raw Datasets (>110MB)
+# (Reproducible via URLs in README.md & scripts in src/)
+# ==============================================================================
+data/raw/
+/tmp/matplotlib_cache/
+
+# ==============================================================================
+# Private Project Management, Subagents & Interview Prep (Local Only)
+# ==============================================================================
+PROJECT_PROGRESS_BRIEF.md
+analytics-portfolio-architect.md
+edge_cases_agent.md
+updated_milestone_5_implementation_plan.md
+notes/
+
+# ==============================================================================
+# Operating System & Scratch Files
+# ==============================================================================
+.DS_Store
+Thumbs.db
+reports/figures/test.*

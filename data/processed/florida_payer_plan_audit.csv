@@ -1,0 +1,119 @@
+hospital_name,raw_payer,raw_plan,contracts,drugs,suggested_standardized_payer,suggested_market_segment,regulatory_source_context
+Baptist Health South Florida,AETNA,AETNA HMO EXCHANGE,78,14,AETNA,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Moffitt Cancer Center,AETNA,Exchange,14,14,AETNA,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+HCA Florida Memorial Hospital,AmeriHealth Caritas,HIX,31,13,AMERIHEALTH CARITAS,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Baptist Health South Florida,AVMED,AVMED INDIVIDUAL,78,14,AVMED,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Baptist Health South Florida,BLUE CROSS,MY BLUE EX,78,14,BLUE CROSS BLUE SHIELD,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+HCA Florida Memorial Hospital,BCBS,MBN,31,13,BLUE CROSS BLUE SHIELD,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Baptist Health South Florida,CIGNA,CIGNA CONNECT NETWORK EXCHANGE,78,14,CIGNA,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Moffitt Cancer Center,CIGNA,Exchange,8,8,CIGNA,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Baptist Health South Florida,NON CONTRACTED,OSCAR HEALTH EXCHANGE,78,14,OSCAR HEALTH,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED INDIVIDUAL EXCHANGE,78,14,UNITEDHEALTHCARE,ACA Individual Exchange,CMS / Florida OIR Qualified Health Plan (QHP)
+Baptist Health South Florida,INTERNATIONAL,INTERNATIONAL AETNA,78,14,AETNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AETNA,AETNA HMO,78,14,AETNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AETNA,AETNA TIER 2,78,14,AETNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AETNA,AETNA PPO,78,14,AETNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,Aetna,ASA,31,13,AETNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,AETNA,HMO/PPO,14,14,AETNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,AETNA,Transplant,14,14,AETNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AFFORDABLE,AFFORDABLE PPO,78,14,AFFORDABLE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AMERIHEALTH,AMERIHTH CARITAS NXT EX,78,14,AMERIHEALTH CARITAS,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AVMED,AVMED PPO,78,14,AVMED,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AVMED,AVMED HMO,78,14,AVMED,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AVMED,AVMED ENTRUST,78,14,AVMED,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,AVMED,Commercial,14,14,AVMED,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,AVMED,Transplant,14,14,AVMED,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,BLUE CROSS,BCBS NETWORKBLUE,78,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,BLUE CROSS,BCBS FL SIMPLYBLUE HMO,78,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,BLUE CROSS,BLUE CARE HMO,78,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,BLUE CROSS,BLUE CROSS,78,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,BLUE CROSS,BLUE SELECT,78,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,BCBS,PHS,31,13,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,BCBS,HMO,31,13,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,BCBS,NWB,31,13,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,BCBS,PPO,31,13,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,BCBS,SBN,31,13,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,BCBS,BSLNON-PAR,31,13,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,BLUECROSS,PHS,14,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,BLUECROSS,HealthOptions,14,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,BLUECROSS,BlueSelect,14,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,BLUECROSS,NetworkBlue,14,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,BLUECROSS,PPC,14,14,BLUE CROSS BLUE SHIELD,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,CIGNA,CIGNA HMO,78,14,CIGNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,CIGNA,CIGNA PPO,78,14,CIGNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,Evernorth,COMM,31,13,CIGNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,CIGNA,Transplant,14,14,CIGNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,CIGNA,HMO/PPO,14,14,CIGNA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,Corizon,COMM,31,13,CORIZON HEALTH,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,DIMENSION HEALTH PLAN,DIMENSION HEALTH PLANS,78,14,DIMENSION HEALTH,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,DIMENSION HEALTH PLAN,DIMENSION PLUS,78,14,DIMENSION HEALTH,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,DIMENSION HEALTH PLAN,DIMENSION 2,78,14,DIMENSION HEALTH,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,EMERGING THERAPIES,Transplant,14,14,EMERGING THERAPIES,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,Evolutions Healthcare,MANAGEDCAREPPO,31,13,EVOLUTIONS HEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,Evolutions Healthcare,TRADITIONALPPO,31,13,EVOLUTIONS HEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,EVOLUTIONS,Prime,14,14,EVOLUTIONS HEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,EVOLUTIONS,Select,14,14,EVOLUTIONS HEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,FIRST HEALTH,PPO,14,14,FIRST HEALTH (AETNA),Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,HEALTH FIRST,Commercial,14,14,HEALTH FIRST,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,HUMANA,Transplant,14,14,HUMANA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,HUMANA,Commercial,14,14,HUMANA,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,PHCS,PHCS,78,14,MULTIPLAN,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,QUALITY HEALTH,MULTIPLAN,78,14,MULTIPLAN,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,MultiPlan ,PRIMARYNETWORK,31,13,MULTIPLAN,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,MultiPlan ,COMPLEMENTARYNETWORK,31,13,MULTIPLAN,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,MULTIPLAN,Commercial,14,14,MULTIPLAN,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,NovaNet,COMM,31,13,NOVANET,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,OPTUM,Transplant,14,14,OPTUM,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,Plotkin Health,COMM,31,13,PLOTKIN HEALTH,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,PPO Next,COMM,31,13,PPO NEXT,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,PPO Next,PPO,31,13,PPO NEXT,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED HMO,78,14,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,UNITED HEALTHCARE,NHP HMO,78,14,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,UNITED HEALTHCARE,INTL UNITED HEALTH,78,14,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED PPO,78,14,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,United,GlobalBenefitPlanAppendix,31,13,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,United,AllPayerAppendix,70,14,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+HCA Florida Memorial Hospital,United,OptionsPPO,31,13,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,UNITED HC,HMO/PPO/POS/EPO,14,14,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Moffitt Cancer Center,UNITED HC,PPO,14,14,UNITEDHEALTHCARE,Commercial Employer,Commercial Employer Group (HMO/PPO/EPO/POS/Self-Funded)
+Baptist Health South Florida,AETNA,AETNA BETTER HEALTH HEALTHY KIDS,55,11,AETNA,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,AETNA,AETNA BETTER HEALTH MEDICAID,55,11,AETNA,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,AMERIGROUP,AMERIGROUP,55,11,AMERIGROUP (ELEVANCE),Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,MEDICAID,PRESTIGE MD HMO NC,55,11,MEDICA HEALTH PLAN,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,VISTA,COVENTRY MEDICAID,55,11,MEDICA HEALTH PLAN,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,MEDICAID,SIMPLYHLTH MD HMO NC,55,11,SIMPLY HEALTHCARE,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,SUNSHINE STATE,SUNSHINE ST MD HMONC,55,11,SUNSHINE STATE (CENTENE),Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED MD HMO,55,11,UNITEDHEALTHCARE,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED HEALTHY KIDS,55,11,UNITEDHEALTHCARE,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Moffitt Cancer Center,UNITED HC,Medicaid HMO,14,14,UNITEDHEALTHCARE,Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,WELLCARE,WELL CARE MD HMONC,55,11,WELLCARE (CENTENE),Medicaid Managed Care,Florida AHCA Statewide Medicaid Managed Care (SMMC)
+Baptist Health South Florida,AETNA,AETNA MEDICARE,52,9,AETNA,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,AETNA,Medicare Advantage,14,14,AETNA,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+HCA Florida Memorial Hospital,American Health Plan,MCR,15,5,AMERICAN HEALTH PLAN,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,AVMED,AVMED MEDICARE,52,9,AVMED,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,BAYCARE,Medicare Advantage,14,14,BAYCARE HEALTH PLANS,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,BLUE CROSS,BCBS MEDICARE PPO,52,9,BLUE CROSS BLUE SHIELD,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+HCA Florida Memorial Hospital,BCBS ,MCRHMO,15,5,BLUE CROSS BLUE SHIELD,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+HCA Florida Memorial Hospital,BCBS,MCRPPO,15,5,BLUE CROSS BLUE SHIELD,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,BLUECROSS,Medicare Advantage,14,14,BLUE CROSS BLUE SHIELD,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,CAREPLUS,Medicare Advantage,14,14,CAREPLUS (HUMANA),Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,CIGNA,CIGNA MEDICARE ADVANTAGE,52,9,CIGNA,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,MEDICARE,DEVOTED HEALTH MC HMO,52,9,DEVOTED HEALTH,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,DEVOTED,Medicare Advantage,14,14,DEVOTED HEALTH,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,HEALTH FIRST,Medicare Advantage,14,14,HEALTH FIRST,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,HUMANA,CAREPLUS MC HMO,52,9,HUMANA,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,HUMANA,HUMANA MEDICARE,52,9,HUMANA,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,HUMANA,Medicare Advantage,14,14,HUMANA,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,LEON MEDICAL,LEON HEALTH MC HMO,52,9,LEON HEALTH,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,LEON MEDICAL,LEON MED MC HMO NC,52,9,LEON HEALTH,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,MEDICARE MANAGED CARE,PROMINENCE,52,9,MEDICA HEALTH PLAN,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,MEDICA HEALTH PLAN,MEDICA MCR HMO,52,9,MEDICA HEALTH PLAN,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,MEDICARE MANAGED CARE,DOCTORS HEALTHCARE MC HMO,52,9,MEDICA HEALTH PLAN,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,MOLINA,Medicare Advantage,14,14,MEDICA HEALTH PLAN,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,MEDICARE,SIMPLYHLTH MC HMO NC,71,9,SIMPLY HEALTHCARE,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+HCA Florida Memorial Hospital,Simply Healthcare,MGMCR,31,13,SIMPLY HEALTHCARE,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED HLTH MC HMO,78,14,UNITEDHEALTHCARE,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+Moffitt Cancer Center,UNITED HC,Medicare Advantage,14,14,UNITEDHEALTHCARE,Medicare Advantage,CMS Medicare Advantage Part C Plan Directory
+HCA Florida Memorial Hospital,Centurion ,PRISN,31,13,CENTURION HEALTH,Veterans / Military / Corrections,Federal DOD/VA or State Department of Corrections
+HCA Florida Memorial Hospital,Humana,TRICARE,14,14,HUMANA,Veterans / Military / Corrections,Federal DOD/VA or State Department of Corrections
+HCA Florida Memorial Hospital,United Behavioral Health,VACCN,15,5,UNITEDHEALTHCARE,Veterans / Military / Corrections,Federal DOD/VA or State Department of Corrections

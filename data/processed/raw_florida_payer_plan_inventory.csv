@@ -1,0 +1,119 @@
+hospital_name,raw_payer_name,raw_plan_name,total_contracts,distinct_drugs,min_rate,median_rate,max_rate
+Baptist Health South Florida,AETNA,AETNA BETTER HEALTH HEALTHY KIDS,55,11,29.08,2853.82,5057.11
+Baptist Health South Florida,AETNA,AETNA BETTER HEALTH MEDICAID,55,11,29.08,2853.82,5057.11
+Baptist Health South Florida,AETNA,AETNA HMO,78,14,2.04,109.14,575.28
+Baptist Health South Florida,AETNA,AETNA HMO EXCHANGE,78,14,1.52,81.32,428.64
+Baptist Health South Florida,AETNA,AETNA MEDICARE,52,9,4.88,81.99,205.5
+Baptist Health South Florida,AETNA,AETNA PPO,78,14,3.2,171.2,902.4
+Baptist Health South Florida,AETNA,AETNA TIER 2,78,14,2.04,109.14,575.28
+Baptist Health South Florida,AFFORDABLE,AFFORDABLE PPO,78,14,3.4,181.9,958.8
+Baptist Health South Florida,AMERIGROUP,AMERIGROUP,55,11,26.92,2642.43,4682.51
+Baptist Health South Florida,AMERIHEALTH,AMERIHTH CARITAS NXT EX,78,14,1.8,96.3,507.6
+Baptist Health South Florida,AVMED,AVMED ENTRUST,78,14,1.18,63.34,333.89
+Baptist Health South Florida,AVMED,AVMED HMO,78,14,1.18,63.34,333.89
+Baptist Health South Florida,AVMED,AVMED INDIVIDUAL,78,14,1.18,63.34,333.89
+Baptist Health South Florida,AVMED,AVMED MEDICARE,52,9,4.79,80.52,201.83
+Baptist Health South Florida,AVMED,AVMED PPO,78,14,1.98,105.93,558.36
+Baptist Health South Florida,BLUE CROSS,BCBS FL SIMPLYBLUE HMO,78,14,1.76,94.37,497.45
+Baptist Health South Florida,BLUE CROSS,BCBS MEDICARE PPO,52,9,4.51,75.76,189.9
+Baptist Health South Florida,BLUE CROSS,BCBS NETWORKBLUE,78,14,2.4,128.4,676.8
+Baptist Health South Florida,BLUE CROSS,BLUE CARE HMO,78,14,2.4,128.4,676.8
+Baptist Health South Florida,BLUE CROSS,BLUE CROSS,78,14,2.59,138.67,730.94
+Baptist Health South Florida,BLUE CROSS,BLUE SELECT,78,14,1.68,89.88,473.76
+Baptist Health South Florida,BLUE CROSS,MY BLUE EX,78,14,0.7,37.24,196.27
+Baptist Health South Florida,CIGNA,CIGNA CONNECT NETWORK EXCHANGE,78,14,1.52,81.32,428.64
+Baptist Health South Florida,CIGNA,CIGNA HMO,78,14,2.08,111.28,654.24
+Baptist Health South Florida,CIGNA,CIGNA MEDICARE ADVANTAGE,52,9,4.96,83.45,209.17
+Baptist Health South Florida,CIGNA,CIGNA PPO,78,14,3.2,171.2,902.4
+Baptist Health South Florida,DIMENSION HEALTH PLAN,DIMENSION 2,78,14,3.6,192.6,1015.2
+Baptist Health South Florida,DIMENSION HEALTH PLAN,DIMENSION HEALTH PLANS,78,14,3.6,192.6,1015.2
+Baptist Health South Florida,DIMENSION HEALTH PLAN,DIMENSION PLUS,78,14,3.0,160.5,846.0
+Baptist Health South Florida,HUMANA,CAREPLUS MC HMO,52,9,4.75,79.79,199.99
+Baptist Health South Florida,HUMANA,HUMANA MEDICARE,52,9,4.75,79.79,199.99
+Baptist Health South Florida,INTERNATIONAL,INTERNATIONAL AETNA,78,14,2.6,139.1,733.2
+Baptist Health South Florida,LEON MEDICAL,LEON HEALTH MC HMO,52,9,4.79,80.52,201.83
+Baptist Health South Florida,LEON MEDICAL,LEON MED MC HMO NC,52,9,4.79,80.52,201.83
+Baptist Health South Florida,MEDICA HEALTH PLAN,MEDICA MCR HMO,52,9,4.66,78.33,196.32
+Baptist Health South Florida,MEDICAID,PRESTIGE MD HMO NC,55,11,29.62,2906.67,5150.76
+Baptist Health South Florida,MEDICAID,SIMPLYHLTH MD HMO NC,55,11,26.92,2642.43,4682.51
+Baptist Health South Florida,MEDICARE,DEVOTED HEALTH MC HMO,52,9,5.88,98.82,247.7
+Baptist Health South Florida,MEDICARE,SIMPLYHLTH MC HMO NC,71,9,4.36,71.37,183.48
+Baptist Health South Florida,MEDICARE MANAGED CARE,DOCTORS HEALTHCARE MC HMO,52,9,4.79,80.52,201.83
+Baptist Health South Florida,MEDICARE MANAGED CARE,PROMINENCE,52,9,5.62,94.43,236.69
+Baptist Health South Florida,NON CONTRACTED,OSCAR HEALTH EXCHANGE,78,14,1.47,78.54,413.98
+Baptist Health South Florida,PHCS,PHCS,78,14,3.6,192.6,1015.2
+Baptist Health South Florida,QUALITY HEALTH,MULTIPLAN,78,14,3.6,192.6,1015.2
+Baptist Health South Florida,SUNSHINE STATE,SUNSHINE ST MD HMONC,55,11,28.54,2800.97,4963.46
+Baptist Health South Florida,UNITED HEALTHCARE,INTL UNITED HEALTH,78,14,3.2,171.2,902.4
+Baptist Health South Florida,UNITED HEALTHCARE,NHP HMO,78,14,2.4,128.4,676.8
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED HEALTHY KIDS,55,11,28.27,2774.55,4916.64
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED HLTH MC HMO,78,14,1.26,67.2,354.19
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED HMO,78,14,2.4,128.4,676.8
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED INDIVIDUAL EXCHANGE,78,14,4.0,214.0,1128.0
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED MD HMO,55,11,28.27,2774.55,4916.64
+Baptist Health South Florida,UNITED HEALTHCARE,UNITED PPO,78,14,3.2,171.2,902.4
+Baptist Health South Florida,VISTA,COVENTRY MEDICAID,55,11,29.08,2853.82,5057.11
+Baptist Health South Florida,WELLCARE,WELL CARE MD HMONC,55,11,28.27,2774.55,4916.64
+HCA Florida Memorial Hospital,AETNA,ASA,31,13,1.5,255.3,10653.6
+HCA Florida Memorial Hospital,AMERICAN HEALTH PLAN,MCR,15,5,15000.0,15000.0,15000.0
+HCA Florida Memorial Hospital,AMERIHEALTH CARITAS,HIX,31,13,2.2,374.44,15625.28
+HCA Florida Memorial Hospital,BCBS,BSLNON-PAR,31,13,1.21,205.09,8558.39
+HCA Florida Memorial Hospital,BCBS,HMO,31,13,0.67,113.18,4723.1
+HCA Florida Memorial Hospital,BCBS,MBN,31,13,0.53,90.21,3764.27
+HCA Florida Memorial Hospital,BCBS,MCRHMO,15,5,0.34,8.56,456.44
+HCA Florida Memorial Hospital,BCBS,MCRPPO,15,5,0.34,8.56,456.44
+HCA Florida Memorial Hospital,BCBS,NWB,31,13,0.7,119.14,4971.68
+HCA Florida Memorial Hospital,BCBS,PHS,31,13,1.21,205.09,8558.39
+HCA Florida Memorial Hospital,BCBS,PPO,31,13,0.7,119.14,4971.68
+HCA Florida Memorial Hospital,BCBS,SBN,31,13,0.67,113.18,4723.1
+HCA Florida Memorial Hospital,CENTURION,PRISN,31,13,1.38,235.64,9833.27
+HCA Florida Memorial Hospital,CORIZON,COMM,31,13,1.5,255.3,10653.6
+HCA Florida Memorial Hospital,EVERNORTH,COMM,31,13,4.0,680.8,28409.6
+HCA Florida Memorial Hospital,EVOLUTIONS HEALTHCARE,MANAGEDCAREPPO,31,13,4.0,680.8,28409.6
+HCA Florida Memorial Hospital,EVOLUTIONS HEALTHCARE,TRADITIONALPPO,31,13,4.25,723.35,30185.2
+HCA Florida Memorial Hospital,HUMANA,TRICARE,14,14,0.08,47.44,187.17
+HCA Florida Memorial Hospital,MULTIPLAN,COMPLEMENTARYNETWORK,31,13,4.25,723.35,30185.2
+HCA Florida Memorial Hospital,MULTIPLAN,PRIMARYNETWORK,31,13,3.9,663.78,27699.36
+HCA Florida Memorial Hospital,NOVANET,COMM,31,13,4.5,765.9,31960.8
+HCA Florida Memorial Hospital,PLOTKIN HEALTH,COMM,31,13,2.5,425.5,17756.0
+HCA Florida Memorial Hospital,PPO NEXT,COMM,31,13,4.25,723.35,30185.2
+HCA Florida Memorial Hospital,PPO NEXT,PPO,31,13,4.25,723.35,30185.2
+HCA Florida Memorial Hospital,SIMPLY HEALTHCARE,MGMCR,31,13,0.77,131.05,5468.85
+HCA Florida Memorial Hospital,UNITED,AllPayerAppendix,70,14,0.13,78.27,308.83
+HCA Florida Memorial Hospital,UNITED,GlobalBenefitPlanAppendix,31,13,2.25,382.95,15980.4
+HCA Florida Memorial Hospital,UNITED,OptionsPPO,31,13,0.64,108.93,4545.54
+HCA Florida Memorial Hospital,UNITED BEHAVIORAL HEALTH,VACCN,15,5,5.0,124.0,6615.0
+Moffitt Cancer Center,AETNA,Exchange,14,14,0.17,95.12,374.3
+Moffitt Cancer Center,AETNA,HMO/PPO,14,14,0.27,161.29,636.36
+Moffitt Cancer Center,AETNA,Medicare Advantage,14,14,0.22,75.44,198.05
+Moffitt Cancer Center,AETNA,Transplant,14,14,0.4,138.8,364.4
+Moffitt Cancer Center,AVMED,Commercial,14,14,0.24,148.57,586.22
+Moffitt Cancer Center,AVMED,Transplant,14,14,0.6,208.2,546.6
+Moffitt Cancer Center,BAYCARE,Medicare Advantage,14,14,0.2,68.88,180.83
+Moffitt Cancer Center,BLUECROSS,BlueSelect,14,14,0.15,87.76,346.26
+Moffitt Cancer Center,BLUECROSS,HealthOptions,14,14,0.17,99.62,393.06
+Moffitt Cancer Center,BLUECROSS,Medicare Advantage,14,14,0.25,87.45,229.57
+Moffitt Cancer Center,BLUECROSS,NetworkBlue,14,14,0.18,106.73,421.13
+Moffitt Cancer Center,BLUECROSS,PHS,14,14,0.29,174.09,686.91
+Moffitt Cancer Center,BLUECROSS,PPC,14,14,0.22,128.07,505.36
+Moffitt Cancer Center,CAREPLUS,Medicare Advantage,14,14,0.2,69.96,183.66
+Moffitt Cancer Center,CIGNA,Exchange,8,8,69.67,152.66,387.93
+Moffitt Cancer Center,CIGNA,HMO/PPO,14,14,0.17,184.84,740.59
+Moffitt Cancer Center,CIGNA,Transplant,14,14,0.6,208.2,546.6
+Moffitt Cancer Center,DEVOTED,Medicare Advantage,14,14,0.2,69.96,183.66
+Moffitt Cancer Center,EMERGING THERAPIES,Transplant,14,14,0.6,208.2,546.6
+Moffitt Cancer Center,EVOLUTIONS,Prime,14,14,0.7,242.9,637.7
+Moffitt Cancer Center,EVOLUTIONS,Select,14,14,0.8,277.6,728.8
+Moffitt Cancer Center,FIRST HEALTH,PPO,14,14,0.75,260.25,683.25
+Moffitt Cancer Center,HEALTH FIRST,Commercial,14,14,0.55,190.85,501.05
+Moffitt Cancer Center,HEALTH FIRST,Medicare Advantage,14,14,0.19,65.59,172.18
+Moffitt Cancer Center,HUMANA,Commercial,14,14,0.53,183.91,482.83
+Moffitt Cancer Center,HUMANA,Medicare Advantage,14,14,0.25,87.45,229.57
+Moffitt Cancer Center,HUMANA,Transplant,14,14,0.65,225.55,592.15
+Moffitt Cancer Center,MOLINA,Medicare Advantage,14,14,0.2,68.01,178.56
+Moffitt Cancer Center,MULTIPLAN,Commercial,14,14,0.8,277.6,728.8
+Moffitt Cancer Center,OPTUM,Transplant,14,14,0.6,208.2,546.6
+Moffitt Cancer Center,UNITED HC,HMO/PPO/POS/EPO,14,14,0.12,111.96,448.58
+Moffitt Cancer Center,UNITED HC,Medicaid HMO,14,14,1.0,347.0,911.0
+Moffitt Cancer Center,UNITED HC,Medicare Advantage,14,14,0.25,86.75,227.75
+Moffitt Cancer Center,UNITED HC,PPO,14,14,0.71,246.37,646.81
