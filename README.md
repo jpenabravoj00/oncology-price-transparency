@@ -119,8 +119,8 @@ $$\text{Markup}_{\text{ASP}} = \frac{\text{Hospital Negotiated Rate}}{\text{ASP}
 $$\text{Spread}_{\text{cash}} = \frac{\text{Negotiated Insured Rate} - \text{Discounted Cash Price}}{\text{Negotiated Insured Rate}} \times 100$$
 * **Friction Point Solved**: Detects the "Cash Paradox," identifying when a payer's negotiated rate fails to beat the hospital's walk-in uninsured self-pay price.
 
-### 4. Patient Out-of-Pocket Coinsurance Liability ($\text{Exposure}_{20\%}$)
-$$\text{Exposure}_{20\%} = \text{Negotiated Rate} \times 0.20$$
+### 4. Patient Out-of-Pocket Coinsurance Liability ($\text{Exposure}_{20\text{pct}}$)
+$$\text{Exposure}_{20\text{pct}} = \text{Negotiated Rate} \times 0.20$$
 * **Friction Point Solved**: Models the direct patient out-of-pocket financial liability under standard 20% Medicare Advantage and commercial cost-sharing rules prior to deductible satisfaction.
 * **Clinical Dosage Context (Keytruda `J9271`)**: HCPCS `J9271` has an official billing unit of **1 mg** ($54.32 ASP statutory limit). A standard clinical infusion regimen is **200 mg intravenously every 3 weeks**. Benchmark cost for a 200 mg clinical dose is $\$10,864$ at ASP, scaling to $\approx \$47,910$ at market median commercial rates. Under HCA's $15,909 contract schedule (partial encounter/vial rate), the 20% coinsurance liability is **$3,181.86**. Under the **ACA Out-of-Pocket Maximum ($9,200 individual)**, patients hit their catastrophic cap within 1–2 cycles, shifting the remaining annual markup tail entirely onto the self-insured plan sponsor.
 

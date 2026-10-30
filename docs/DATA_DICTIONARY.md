@@ -126,6 +126,6 @@ $$\text{Markup}_{\text{ASP}} = \frac{\text{commercial\_negotiated\_rate}}{\text{
 $$\text{Spread}_{\text{cash}} = \text{commercial\_negotiated\_rate} - \text{hospital\_cash\_rate}$$
 * A positive dollar value demonstrates the **Cash Paradox**: uninsured patients pay less than insured patients.
 
-### 4. Patient 20% Coinsurance Exposure ($\text{Exposure}_{20\%}$)
-$$\text{Exposure}_{20\%} = \text{commercial\_negotiated\_rate} \times 0.20$$
+### 4. Patient 20% Coinsurance Exposure ($\text{Exposure}_{20\text{pct}}$)
+$$\text{Exposure}_{20\text{pct}} = \text{commercial\_negotiated\_rate} \times 0.20$$
 * Patient cost-share liability per statutory billing unit prior to reaching annual deductible and ACA Out-of-Pocket Maximum.
