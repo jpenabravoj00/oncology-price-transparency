@@ -2,7 +2,7 @@
 ### Benchmarking Commercial Hospital Rates Against Medicare Part B ASP Across 5,068 Cancer Contracts
 
 [![DuckDB Pipeline](https://img.shields.io/badge/Pipeline-Python_3.11+_|_DuckDB_OLAP-3776AB.svg?logo=python&logoColor=white)](#-data-architecture--pipeline-methodology)
-[![Interactive Dashboard](https://img.shields.io/badge/Dashboard-Streamlit_Interactive-FF4B4B.svg?logo=streamlit&logoColor=white)](#-interactive-data-intelligence-product)
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oncology-price-transparency-jfeswcurkkkvqs65td4wgd.streamlit.app/)
 [![Domain](https://img.shields.io/badge/Domain-Health_Economics_|_Price_Transparency-1B4965.svg)](#-domain-background--author)
 [![Data](https://img.shields.io/badge/Data-CMS_Hospital_MRF_|_Part_B_ASP-orange.svg)](#-data-architecture--pipeline-methodology)
 
@@ -85,6 +85,11 @@ Rather than treating hospital price transparency as a passive compliance artifac
 ---
 
 ## 🌐 Interactive Data Intelligence Product
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oncology-price-transparency-jfeswcurkkkvqs65td4wgd.streamlit.app/)
+
+> 🚀 **Live Interactive Application**: **[Launch the Oncology Price Transparency Dashboard](https://oncology-price-transparency-jfeswcurkkkvqs65td4wgd.streamlit.app/)**  
+> Readers and stakeholders can directly interact with the live analytics platform online without local setup.
 
 In addition to static publication figures, this repository includes a **production-grade interactive Streamlit web dashboard** backed by DuckDB's in-process columnar engine:
 
